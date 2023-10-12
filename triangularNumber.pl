@@ -1,7 +1,7 @@
 use strict;
 use warnings;
 
-my $n = 1;
+my $n = 0;
 my $triangleNumber = 0;
 
 while (1) {
